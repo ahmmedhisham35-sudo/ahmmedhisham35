@@ -1,4 +1,3 @@
-
 I'm **[`Sayyid Ahammed Noorul Hisham`]**,a passionate Data Analyst and Business Intelligence Enthusiast. With expertise in data visualization, data cleaning, reporting, and analytical tools like Excel, Power BI, and SQL, I create insights that help businesses make smarter decisions. My goal is to transform raw data into meaningful stories, solve real-world problems through analytics, and continuously grow in the world of data and technology. 
 
 <a href="www.linkedin.com/in/ahmmedhisham"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
